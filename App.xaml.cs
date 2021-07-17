@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows;
 
-namespace GrafxMacro
+namespace HubbizMacro
 {
     public partial class App : Application
     {

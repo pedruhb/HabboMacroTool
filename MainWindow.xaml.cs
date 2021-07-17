@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using WindowsInput;
 using WindowsInput.Native;
 
-namespace GrafxMacro
+namespace HubbizMacro
 {
     public partial class MainWindow : Window
     {
